@@ -1,6 +1,8 @@
 # InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management
 [[paper](https://arxiv.org/abs/2406.19707)]
 
+![infinigen](figures/infinigen.png)
+
 ## Overview
 
 This repository contains the code for the artifact evaluation of our paper "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management".
